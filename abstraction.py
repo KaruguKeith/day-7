@@ -1,0 +1,1 @@
+#it hides the complexity of a class
